@@ -6,4 +6,13 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="CMCS.Tests\obj\Debug\net9.0\refint\" />
+    <Folder Include="CMCS.Tests\obj\Debug\net9.0\ref\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="CMCS.Tests\CMCS.Tests.csproj" />
+  </ItemGroup>
+
 </Project>
